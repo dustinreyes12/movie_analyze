@@ -1,0 +1,14 @@
+imdbpy
+tqdm
+joblib
+pandas
+numpy
+altair
+seaborn
+streamlit
+datetime
+ipywidgets
+pytrends
+plotly
+bokeh
+wordcloud
