@@ -11,11 +11,19 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+<<<<<<< HEAD
 data/
 data2/
 downloads/
 eggs/
 .eggs/
+=======
+downloads/
+eggs/
+.eggs/
+data/
+data2/
+>>>>>>> 76bdafda7ad9fab59870589bed8867cc393b8cfc
 lib/
 lib64/
 parts/
