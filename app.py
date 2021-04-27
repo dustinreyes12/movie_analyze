@@ -6,7 +6,7 @@ app = MultiApp()
 
 # Add all your application here
 app.add_app("Movie Analysis", movie_analysis.app)
-app.add_app("Actor Analysis", actor_analysis.app)
+# app.add_app("Actor Analysis", actor_analysis.app)
 
 # The main app
 if __name__ == '__main__':
